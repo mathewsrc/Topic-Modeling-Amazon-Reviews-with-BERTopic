@@ -8,3 +8,7 @@ Use BERTopic to build a topic model of the top reviews from the Amazon product r
 ### Hierarchical Clustering
 
 ![hc](https://github.com/punkmic/Topic-Modeling-Amazon-Reviews-with-BERTopic/blob/8a66c98a67faeb778207f9f2894ae649c2251974/newplot%20(2).png)
+
+### Similarity Matrix
+
+![sm](https://github.com/punkmic/Topic-Modeling-Amazon-Reviews-with-BERTopic/blob/d3d80d51f1c9ba1a3b59d3879ae05aa3aa812271/newplot.png)
